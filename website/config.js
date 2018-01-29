@@ -1,12 +1,12 @@
-var api = "https://aeon.sumominer.com:9119";
+var api = "https://45.63.82.141:1117";
 
-var poolHost = "aeon.sumominer.com";
+var poolHost = "https://pool.vlucash.org";
 
 var irc = "irc.freenode.net/#aeon";
 
-var email = "support@sumominer.com";
+var email = "contact@vlucash.org";
 
-var cryptonatorWidget = ["AEON-BTC", "AEON-USD", "XMR-BTC", "ETH-BTC", "BTC-USD"];
+var cryptonatorWidget = ["VLU-BTC", "VLU-USD", "XRM-BTC", "ETH-BTC", "BTC-USD"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
